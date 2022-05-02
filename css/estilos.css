@@ -1,0 +1,77 @@
+#titulo{
+    color: darkred;
+}
+table {
+    width: 60%;
+    background-color: rgba(238, 255, 0, 0.534);
+}
+
+img {
+    display: flex;
+    justify-content: left;
+}
+
+main {
+    display: flex;
+    justify-content: right;
+}
+
+tr {
+    background-color: rgba(0, 0, 0, 0.87);
+}
+
+th {
+    color: rgb(238, 255, 0);
+}
+
+td {
+    color: rgb(238, 255, 0);
+}
+
+body {
+    background-image: url(../assets/img/fondeli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-attachment: fixed;*/
+}
+
+
+
+h2 {
+    color: rgb(251, 255, 0);
+}
+
+footer {
+    height: 100px;
+    background-image: url(../assets/img/fondeli.jpg);
+}
+
+header {
+    height: 100px;
+    background-image: url(../assets/img/fondeli.jpg);
+
+}
+
+a {
+    color: rgb(238, 255, 0);
+}
+
+a:hover {
+    color: deeppink;
+}
+
+p {
+    color: darkred;
+}
+
+main {
+    text-align: center;
+}
+#papa {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: darkred;
+}
